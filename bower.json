@@ -1,0 +1,17 @@
+{
+  "name": "iqvata-alert",
+  "homepage": "https://github.com/iqvata/Alert",
+  "authors": [
+    "Qvatadze Iraklî <qvatapp@gmail.com>"
+  ],
+  "description": "Alert Component",
+  "main": "alert.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
