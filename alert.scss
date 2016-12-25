@@ -1,11 +1,10 @@
 @import "mixins.scss";
 
 // Variables
-
-$color-success:				  #7be4a5 !global;
-$color-danger:				  #f44e4e !global;
-$color-info:				  #78ccf6 !global;
-$color-warning:				  #f3dc62 !global;
+$color-success:		      #7be4a5 !global;
+$color-danger:		      #f44e4e !global;
+$color-info:		      #78ccf6 !global;
+$color-warning:		      #f3dc62 !global;
 
 $alert-success-bg:            lighten($color-success, 20%) !global;
 $alert-success-text:          darken($color-success, 25%) !global;
