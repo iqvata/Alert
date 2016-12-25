@@ -22,5 +22,5 @@ for `html` file:
 
 in `<head></head>`
 ```html
-<link rel="stylesheet" href="alert.css" />
+<link rel="stylesheet" href="/bower_components/qvata-alert/alert.css" />
 ```
