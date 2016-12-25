@@ -1,6 +1,12 @@
 # Alert
 Alert Component
 
+## Installation
+### Install With [Bower](http://bower.io/):
+```
+$ bower install qvata-alert --save
+```
+
 # Usage
 for `html` file:
 
