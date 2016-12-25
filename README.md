@@ -7,7 +7,17 @@ Alert Component
 $ bower install qvata-alert --save
 ```
 
+### Install Manualy
+- [Download Package Archive](https://github.com/iqvata/Alert/archive/master.zip)
+- Place files to your project.
+
 # Usage
+for `scss` file:
+```scss
+@import "/bower_components/flex-ui-alert/alert";
+```
+---
+
 for `html` file:
 
 in `<head></head>`
