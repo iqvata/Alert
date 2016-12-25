@@ -14,7 +14,7 @@ $ bower install qvata-alert --save
 # Usage
 for `scss` file:
 ```scss
-@import "/bower_components/flex-ui-alert/alert";
+@import "/bower_components/qvata-alert/alert";
 ```
 ---
 
